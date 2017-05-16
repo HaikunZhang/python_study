@@ -6,7 +6,7 @@ print '\n----------------------------------------------'
 
 ' a test module '
 
-__author__ = 'Michael Liao'
+__author__ = 'Michael Liao a ZHK'
 
 import sys
 
