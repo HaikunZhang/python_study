@@ -6,7 +6,7 @@ print '\n----------------------------------------------'
 
 ' a test module '
 
-__author__ = 'Michael Liao a ZHK'
+__author__ = 'Michael Liao'
 
 import sys
 
@@ -49,3 +49,8 @@ bart = Student('zhk',99)
 bart.print_score()
 
 print "The Grade is %s."%(bart.get_grade())
+
+print '\n----------------------------------------------'	
+
+class Animal:
+
