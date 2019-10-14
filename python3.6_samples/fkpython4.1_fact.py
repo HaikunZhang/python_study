@@ -1,16 +1,55 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
+##################################################################
+# 4.7 练习1、定义计算N的阶乘的函数
+# 要求：
+# 1. 使用循环计算阶乘
+# 2. 使用递归计算阶乘
+# 3. 调用reduce 函数计算阶乘
+##################################################################
 
-def fact(n):
-    if n < 1:
+import functools
+
+# 1. 使用循环计算阶乘:
+
+
+def fact1(n1):
+    sumFact = 1
+    if n1 < 1:
+        print("N不能小于1")
+        return
+    for x in range(1, n1 + 1):
+        sumFact *= x
+    return sumFact
+
+# 2.使用递归计算阶乘：
+
+
+def fact2(n2):
+    if n2 < 1:
+        print("n不能小于1")
+        return
+    elif n2 == 1:
         return 1
     else:
-        print(n, "*", end=" ") if n != 1 else print(n, "=", end=" ")
-        return n * fact(n-1)
+        return n2 * fact2(n2 - 1)
+
+# 3. 调用reduce 函数计算阶乘
 
 
-s = int(input("请输入需要计算阶乘的数："))
-print(fact(s))
+def fact3(n3):
+    if n3 < 1:
+        print("n不能小于1")
+        return
+    else:
+        return functools.reduce(lambda x, y: x * y, range(1, n3+1))
+
+
+n = int(input("请输入需要计算阶乘的数N = "))
+
+print("1. 使用循环计算阶乘，结果：", fact1(n))
+print("2. 使用递归计算阶乘，结果：", fact2(n))
+print("3. 使用递归计算阶乘，结果：", fact3(n))
 
 

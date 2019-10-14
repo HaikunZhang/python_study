@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="799dfcdd-e1e4-401c-b4ac-97c3f60eb750" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python3.6_samples/fkpython3.1_for-in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python3.6_samples/fkpython3.2_if-else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python3.6_samples/fkpython4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python3.6_samples/fkpython2.1_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/python3.6_samples/fkpython2.1_dict_numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python3.6_samples/fkpython2.2_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/python3.6_samples/fkpython2.2_dict_itertools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py" beforeDir="false" afterPath="$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3.6_samples/fkpython4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python3.6_samples/fkpython4.2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +17,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/test1$kfpython1_counter.coverage" NAME="kfpython1_counter Coverage Results" MODIFIED="1564047336477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
     <SUITE FILE_PATH="coverage/test1$fkpython4.coverage" NAME="fkpython4 Coverage Results" MODIFIED="1567414075402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
+    <SUITE FILE_PATH="coverage/test1$download_img.coverage" NAME="download_img Coverage Results" MODIFIED="1571022523009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
+    <SUITE FILE_PATH="coverage/test1$fkpython4_2.coverage" NAME="fkpython4.2 Coverage Results" MODIFIED="1570782478276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
+    <SUITE FILE_PATH="coverage/test1$P7.coverage" NAME="P7 Coverage Results" MODIFIED="1570517456735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2.7_samples" />
     <SUITE FILE_PATH="coverage/test1$pppp.coverage" NAME="pppp Coverage Results" MODIFIED="1564651855615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
+    <SUITE FILE_PATH="coverage/test1$hello.coverage" NAME="hello Coverage Results" MODIFIED="1571023112297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonScripts" />
     <SUITE FILE_PATH="coverage/test1$fkpython2_1_dict.coverage" NAME="fkpython2.1_dict Coverage Results" MODIFIED="1566463518244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
     <SUITE FILE_PATH="coverage/test1$fkpython3.coverage" NAME="fkpython3 Coverage Results" MODIFIED="1567048847804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
-    <SUITE FILE_PATH="coverage/test1$fkpython4_1_fact.coverage" NAME="fkpython4.1_fact Coverage Results" MODIFIED="1567475587223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
+    <SUITE FILE_PATH="coverage/test1$fkpython4_1_fact.coverage" NAME="fkpython4.1_fact Coverage Results" MODIFIED="1570785396273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
     <SUITE FILE_PATH="coverage/test1$yeildtest.coverage" NAME="yeildtest Coverage Results" MODIFIED="1564042411794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/test1$kfpython1.coverage" NAME="kfpython1 Coverage Results" MODIFIED="1564045515228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
     <SUITE FILE_PATH="coverage/test1$fkpython3_2_if_else.coverage" NAME="fkpython3.2_if-else Coverage Results" MODIFIED="1567129233007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
@@ -30,7 +32,9 @@
     <SUITE FILE_PATH="coverage/test1$p1Print.coverage" NAME="p1Print Coverage Results" MODIFIED="1562827294407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$fkpython2_dict.coverage" NAME="fkpython2_dict Coverage Results" MODIFIED="1565178457797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
     <SUITE FILE_PATH="coverage/test1$fkpython2_2_dict.coverage" NAME="fkpython2.2_dict Coverage Results" MODIFIED="1566377357361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
+    <SUITE FILE_PATH="coverage/test1$python3_6_samples.coverage" NAME="python3.6_samples Coverage Results" MODIFIED="1570517429160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$myGit.coverage" NAME="test1 Coverage Results" MODIFIED="1564042527146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/test1$create_folder.coverage" NAME="create_folder Coverage Results" MODIFIED="1571021840915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3.6_samples" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -51,17 +55,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
+            <state relative-caret-position="115">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3.6_samples/study1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonScripts/download_img.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython4.2.py">
+        <entry file="file://$PROJECT_DIR$/../PythonScripts/Img2base64.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="230">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonScripts/create_folder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="21" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,8 +106,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython3.2_if-else.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython4.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -94,7 +140,6 @@
         <option value="$PROJECT_DIR$/python3.6/study1.py" />
         <option value="$PROJECT_DIR$/python2.7_samples/p1Print.py" />
         <option value="$PROJECT_DIR$/python3.6_samples/study1.py" />
-        <option value="$PROJECT_DIR$/python2.7_samples/P7.py" />
         <option value="$PROJECT_DIR$/python2.7_samples/p5Func.py" />
         <option value="$USER_HOME$/Desktop/yeildtest.py" />
         <option value="$PROJECT_DIR$/python2.7_samples/aaa.py" />
@@ -108,58 +153,65 @@
         <option value="$PROJECT_DIR$/python3.6_samples/fkpython3.py" />
         <option value="$PROJECT_DIR$/python3.6_samples/fkpython3.2_if-else.py" />
         <option value="$PROJECT_DIR$/python3.6_samples/fkpython4.py" />
+        <option value="$PROJECT_DIR$/python2.7_samples/P7.py" />
         <option value="$PROJECT_DIR$/python3.6_samples/fkpython4.2.py" />
+        <option value="$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py" />
+        <option value="$PROJECT_DIR$/python3.6_samples/data_read.py" />
+        <option value="$PROJECT_DIR$/python3.6_samples/create_folder.py" />
+        <option value="$PROJECT_DIR$/python3.6_samples/get_img.py" />
+        <option value="$PROJECT_DIR$/python3.6_samples/download_img.py" />
+        <option value="$PROJECT_DIR$/../PythonScripts/hello.py" />
+        <option value="$PROJECT_DIR$/../PythonScripts/Img2base64.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-85" />
-    <option name="y" value="-15" />
-    <option name="width" value="1939" />
-    <option name="height" value="1050" />
+    <option name="x" value="-182" />
+    <option name="y" value="135" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="python2.7_samples" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python3.6_samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.6_samples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="test1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\PythonScripts" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python2.7_samples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonScripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonScripts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test1\python3.6_samples" />
       <recent name="D:\myGit\test\test1\python3.6_samples" />
     </key>
   </component>
@@ -175,8 +227,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fkpython4.1_fact">
-    <configuration name="fkpython2.1_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hello">
+    <configuration name="create_folder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +241,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\myGit\test\test1\python3.6_samples\fkpython2.1_dict_numpy.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonScripts\create_folder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fkpython3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="download_img" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,51 +263,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\myGit\test\test1\python3.6_samples\fkpython3.1_for-in.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fkpython3.2_if-else" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3.6_samples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3.6_samples/fkpython3.2_if-else.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fkpython4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3.6_samples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\myGit\test\test1\python3.6_samples\fkpython4.1_fact.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonScripts\download_img.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,6 +286,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fkpython4.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python36\python3.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3.6_samples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3.6_samples/fkpython4.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonScripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonScripts\Img2base64.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,19 +401,19 @@
     <list>
       <item itemvalue="Python.python3.6_samples" />
       <item itemvalue="Python.python2.7_samples" />
-      <item itemvalue="Python.fkpython3" />
-      <item itemvalue="Python.fkpython2.1_dict" />
-      <item itemvalue="Python.fkpython3.2_if-else" />
-      <item itemvalue="Python.fkpython4" />
       <item itemvalue="Python.fkpython4.1_fact" />
+      <item itemvalue="Python.fkpython4.2" />
+      <item itemvalue="Python.create_folder" />
+      <item itemvalue="Python.download_img" />
+      <item itemvalue="Python.hello" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.download_img" />
+        <item itemvalue="Python.create_folder" />
         <item itemvalue="Python.fkpython4.1_fact" />
-        <item itemvalue="Python.fkpython4" />
-        <item itemvalue="Python.fkpython3.2_if-else" />
-        <item itemvalue="Python.fkpython3" />
-        <item itemvalue="Python.fkpython2.1_dict" />
+        <item itemvalue="Python.fkpython4.2" />
       </list>
     </recent_temporary>
   </component>
@@ -384,22 +436,34 @@
       <workItem from="1566368163094" duration="18743000" />
       <workItem from="1567045630138" duration="31048000" />
       <workItem from="1567498340614" duration="608000" />
+      <workItem from="1567499602263" duration="12657000" />
+      <workItem from="1567734062708" duration="9496000" />
+      <workItem from="1567993288426" duration="607000" />
+      <workItem from="1568098716480" duration="602000" />
+      <workItem from="1568190594957" duration="1527000" />
+      <workItem from="1569570600615" duration="4626000" />
+      <workItem from="1570516336192" duration="11069000" />
+      <workItem from="1570782226212" duration="3171000" />
+      <workItem from="1570845459102" duration="1874000" />
+      <workItem from="1570870972233" duration="2100000" />
+      <workItem from="1571016349790" duration="5827000" />
+      <workItem from="1571022939052" duration="489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82601000" />
+    <option name="totallyTimeSpent" value="136646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117962465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.3512748" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.37393767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,7 +473,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.33569404" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3297546" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,13 +525,6 @@
         <state relative-caret-position="-830" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python2.7_samples/P7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python2.7_samples/p6High.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2210" />
@@ -484,15 +541,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python3.6_samples/pppp.py" />
-    <entry file="file://D:/奇点云信/P07奇点识客/识客-托管/data_read.py" />
-    <entry file="file://$PROJECT_DIR$/python3.6_samples/study1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36/Lib/test/pythoninfo.py">
+    <entry file="file://$PROJECT_DIR$/../奇点云信/P07奇点识客/识客-托管/data_read.py" />
+    <entry file="file://$PROJECT_DIR$/../Python36/Lib/test/pythoninfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="468" column="28" lean-forward="true" selection-start-line="468" selection-start-column="28" selection-end-line="468" selection-end-column="28" />
@@ -503,13 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3.6_samples/yieldtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -540,24 +583,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython3.2_if-else.py">
+    <entry file="file://$PROJECT_DIR$/python2.7_samples/P7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="23">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python3.6_samples/yieldtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3.6_samples/data_read.py" />
     <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython4.1_fact.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
+        <state relative-caret-position="115">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3.6_samples/study1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython3.2_if-else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python3.6_samples/fkpython4.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonScripts/create_folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonScripts/download_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonScripts/Img2base64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
