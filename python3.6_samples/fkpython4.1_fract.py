@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 ##################################################################
-# 4.7 练习1、定义计算N的阶乘的函数
+# 练习6. 定义计算N的阶乘的函数
 # 要求：
 # 1. 使用循环计算阶乘
 # 2. 使用递归计算阶乘
@@ -15,13 +15,13 @@ import functools
 
 
 def fact1(n1):
-    sumFact = 1
+    sum_fact = 1
     if n1 < 1:
         print("N不能小于1")
         return
     for x in range(1, n1 + 1):
-        sumFact *= x
-    return sumFact
+        sum_fact *= x
+    return sum_fact
 
 # 2.使用递归计算阶乘：
 
